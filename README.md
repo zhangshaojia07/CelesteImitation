@@ -6,4 +6,4 @@ Author：Shaojia
 
 真是个奇异搞笑项目。
 
-2024年12月8日 UPD：发现主界面bgm是《Postcard from Celeste Mountain》就在Luna的专辑里（但是不是第一首），虽然第九章专辑里《The Empty Space Above》旋律一样但是混响大了（成为章节选择悬停在第九章的bgm）。因为懒所以没换源，见谅。
+2024年12月8日 UPD：发现主界面bgm是《Postcard from Celeste Mountain》就在《Celeste (Original Soundtrack)》专辑里（但是不是第一首），虽然第九章专辑里《The Empty Space Above》旋律一样但是混响大了（成为章节选择悬停在第九章的bgm）。因为懒所以没换源，见谅。
